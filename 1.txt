@@ -1,0 +1,9 @@
+Pay Slip for Employee 1
+==============================
+Base Salary: 1000000.00
+Allowances: 10000.00
+Bonuses: 5000.00
+Deductions: 1000.00
+Tax Amount: 301200.00
+Net Pay: 712800.00
+==============================

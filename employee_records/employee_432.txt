@@ -1,0 +1,6 @@
+ Employee ID : 432
+ First name : Giho
+ Last name : Zo
+ email : Giho.Zo@mycompany.com
+
+

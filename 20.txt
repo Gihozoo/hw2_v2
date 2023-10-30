@@ -1,0 +1,9 @@
+Pay Slip for Employee 20
+==============================
+Base Salary: 100000.00
+Allowances: 0.00
+Bonuses: 10000.00
+Deductions: 500.00
+Tax Amount: 43800.00
+Net Pay: 65700.00
+==============================

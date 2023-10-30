@@ -1,0 +1,6 @@
+ Employee ID : 34
+ First name : Lando
+ Last name : Gihozo
+ email : Lando.Gihozo@mycompany.com
+
+
